@@ -1,0 +1,22 @@
+{
+  "name": "simple-note-taker",
+  "version": "1.0.0",
+  "description": "A note taking application that allows the ability to write and save notes. This application use express.js for back-end and saves and retrieves note data from a JSON file. This application is deployed on Heroku.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smith-utxo/simple-note-taker.git"
+  },
+  "author": "Adam Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smith-utxo/simple-note-taker/issues"
+  },
+  "homepage": "https://github.com/smith-utxo/simple-note-taker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
