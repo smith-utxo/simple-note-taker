@@ -1,6 +1,14 @@
-[
+{
+  "db": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Groceries",
+      "text": "Apples\nBananas\nPears\n",
+      "id": "0"
+    },
+    {
+      "title": "workout",
+      "text": "lifting\npushing\njumping",
+      "id": "1"
     }
-]
+  ]
+}
