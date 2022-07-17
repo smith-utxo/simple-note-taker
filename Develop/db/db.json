@@ -1,9 +1,14 @@
 {
   "db": [
     {
-      "title": "Sample title",
-      "text": "Sample Text",
-      "id": "3fa0eee2-4048-4dcf-9237-ef0581002c0d"
+      "title": "Workout",
+      "text": "DeadLifts\nBench-Press\nPull-Ups\nCalf-raises",
+      "id": "08c2056c-cf8a-4032-8534-2d9f3d27d31e"
+    },
+    {
+      "title": "Grocery List",
+      "text": "Bananas\nBread\nEggs\nCheese\nMilk\n",
+      "id": "a9dce4fc-f10b-45bb-9071-3b3176e5ee39"
     }
   ]
 }
