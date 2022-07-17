@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/smith-utxo/simple-note-taker#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
   }
 }

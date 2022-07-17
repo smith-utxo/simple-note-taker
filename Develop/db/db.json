@@ -1,14 +1,9 @@
 {
   "db": [
     {
-      "title": "Groceries",
-      "text": "Apples\nBananas\nPears\n",
-      "id": "0"
-    },
-    {
-      "title": "workout",
-      "text": "lifting\npushing\njumping",
-      "id": "1"
+      "title": "Sample title",
+      "text": "Sample Text",
+      "id": "3fa0eee2-4048-4dcf-9237-ef0581002c0d"
     }
   ]
 }
