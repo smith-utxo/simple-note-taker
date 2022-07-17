@@ -5,8 +5,8 @@ A note taking application that allows the ability to write and save notes. This 
 ![](Develop/public/assets/screenshot.PNG)
 
 
-## Github URL: 
-
+## Heroku Deployed URL: 
+https://simple-note-taker937.herokuapp.com/
 
 ## Legal Notice: 
 © Adam T. Smith, U of M Coding Boot Camp 
